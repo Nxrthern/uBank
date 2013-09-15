@@ -1,0 +1,406 @@
+-----
+Acton
+Ailsa Craig
+Ajax
+Aldershot
+Alexandria
+Alfred
+Alliston
+Almonte
+Alvinston
+Amherstburg
+Amherstview
+Armstrong
+Arnprior
+Ancaster
+Angus
+Apsley
+Arthur
+Athens
+Atikokan
+Atwood
+Aurora
+Aylmer
+Ayr
+Baden
+Bancroft
+Barrie
+Barriefield
+Barry's Bay
+Bath
+Bathurst
+Bayfield
+Beachburg
+Beachville
+Beamsville
+Beardmore
+Beaverton
+Belle River
+Belleville
+Belmont
+Big Trout Lake
+Blackburn Hamlet
+Blenheim
+Blind River
+Bloomfield
+Blossom Park
+Blyth
+Bobcaygeon
+Bolton
+Bonfield
+Bothwell
+Bourget
+Bowmanville
+Bracebridge
+Brampton
+Brantford
+Brechin
+Bridgenorth
+Brighton
+Brights Grove
+Brockville
+Bruce Mines
+Brussels
+Burford
+Burk's Falls
+Burlington
+Cache Bay
+Calabogie
+Caledon
+Caledonia
+Callander
+Calumet
+Cambridge
+Campbellford
+Cannington
+Caramat
+Cardinal
+Carleton Place
+Casselman
+Cayuga
+Chalk River
+Chapleau
+Chatham
+Chesley
+Chesterville
+Clarington
+Clifford
+Clinton
+Cobalt
+Cobden
+Cobourg
+Cochrane
+Colborne
+Colchester
+Coldwater
+Collingwood
+Collins Bay
+Comber
+Cookstown
+Cornwall
+Corunna
+Courtland
+Craigleith
+Creemore
+Crystal Beach
+Deep River
+Delhi
+Deseronto
+Dorchester
+Dorion
+Drayton
+Dresde
+Dryden
+Dundalk
+Dundas
+Dunnville
+Durham
+Dutton
+Eganville
+Elliot Lake
+Elmira
+Elmvale
+Elora
+Embro
+Embrun
+Emo
+Englehart
+English River
+Enniskillen
+Erin
+Espanola
+Essex
+Exeter
+Fenelon Falls
+Fergus
+Fonthill
+Forest
+Fort Erie
+Fort Frances
+Fort Severn
+Frankford
+Gananoque
+Georgetown
+Geraldton
+Glencoe
+Goderich
+Gore Bay
+Grafton
+Grand Bend
+Grand Valley
+Gravenhurst
+Grimsby
+Guelph
+Haileybury
+Haliburton
+Hamilton
+Hanover
+Harriston
+Harrow
+Harrowsmith
+Hastings
+Havelock
+Hawkesbury
+Hearst
+Hensall
+Hillsburgh
+Hornepayne
+Huntsville
+Hurkett
+Ignace
+Ingersoll
+Ingleside
+Iroquois
+Iroquois Falls
+Iron Bridge
+Jellicoe
+Kapuskasing
+Keewatin
+Kemptville
+Kenora
+Keswick
+Kettle Point
+Killaloe Station
+Killarney
+Kincardine
+Kingston
+Kingsville
+Kirkland Lake
+Kitchener
+L'Original
+Lasalle
+Lakefield
+Lambeth
+Lanark
+Lancaster
+Lansdowne
+Leamington
+Leith
+Limoges
+Lindsay
+Listowel
+Little Current
+London
+Long Sault
+Long Lake
+Longlac
+Lucan
+Lucknow
+Macdiarmid
+Madoc
+Malton
+Manitouwadge
+Marathon
+Markdale
+Markham
+Marmora
+Marrysville
+Massey
+Mattawa
+Maxville
+Meaford
+Merlin
+Merrickville
+Metcalfe
+Midland
+Mildmay
+Millbrook
+Milton
+Milverton
+Minden
+Mississauga
+Mitchell
+Moose Factory
+Moosonee
+Morrisburg
+Mount Albert
+Mount Brydges
+Mount Forest
+Mount Pleasant
+Murillo
+Nakina
+Nanticoke
+Napanee
+New Dundee
+New Hamburg
+New Liskeard
+Newburgh
+Newmarket
+Niagara Falls
+Niagara on the Lake
+Nipigon
+Nobleton
+North Bay
+North Gower
+Norwich
+Norwood
+Oakville
+Odessa
+Oil Springs
+Omemee
+Orangeville
+Orillia
+Osgoode
+Ottawa
+Otterville
+Owen Sound
+Paisley
+Palmerston
+Paris
+Parkhill
+Parry Sound
+Pass Lake
+Peawanuck
+Pembroke
+Penetanguishene
+Perth
+Petawawa
+Peterborough
+Petrolia
+Pickering
+Pickle Lake
+Picton
+Plantagenet
+Port Burwell
+Port Carling
+Port Colborne
+Port Credit
+Port Edward
+Port Elgin
+Port Hope
+Port McNicoll
+Port Perry
+Port Rowan
+Port Stanley
+Powassan
+Prescott
+Preston
+Rainy River
+Red Rock
+Red Lake
+Renfrew
+Richmond
+Richmond Hill
+Ridgetown
+Ripley
+Rockland
+Rockwood
+Rodney
+Rossport
+Russell
+Sandy Lake
+Sarnia
+Sauble Beach
+Sault Ste. Marie
+Schreiber
+Seaforth
+Shakespeare
+Sharon
+Shebandowan
+Shelburne
+Simcoe
+Sioux Lookout
+Smiths Falls
+Smithville
+Smooth Rock Falls
+South River
+Southampton
+Spanish
+St. Catharines
+St. Clements
+St. Eugene
+St. George
+St. Jacobs
+St. Mary's
+St. Thomas
+Stayner
+Stirling
+Stoney Creek
+Stoney Point
+Stratford
+Strathroy
+Streetsville
+Sturgeon Falls
+Sudburynow Greater Sudbury
+Sunderland
+Sundridge
+Sutton
+Sydenham
+Tara
+Tavistock
+Tecumseh
+Teeswater
+Terrace Bay
+Thamesford
+Thamesville
+Thedford
+Thessalon
+Thornbury
+Thornhill
+Thorold
+Thunder Bay
+Tilbury
+Tillsonburg
+Timmins
+Toronto
+Trenton
+Tweed
+Upsala
+Uxbridge
+Vankleek Hill
+Vaughan
+Verner
+Vermilion Bay
+Wabigoon
+Walkerton
+Wallaceburg
+Wasaga Beach
+Waterdown
+Waterloo
+Watford
+Waubaushene
+Wawa
+Welland
+Wellesley
+Wellington
+West Lorne
+Westport
+Wheatley
+Whitby
+Whitechurch Stouffville
+White River
+Whitney
+Wiarton
+Williamstown
+Winchester
+Windsor
+Wingham
+Winona
+Woodstock
+Woodville
+Wyoming
+Yarker
+York
+Youngs Point
+Zephyr
+Zurich

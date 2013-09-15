@@ -1,0 +1,10 @@
+0
+The email address you have entered already exists.
+1
+You have left a field empty.
+2
+Password of email address is incorrect.
+3
+That account does not exist.
+4
+A field of data is incorrect or unusable. Please ensure all of your data is correct.
